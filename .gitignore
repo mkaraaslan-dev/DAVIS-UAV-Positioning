@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Models and experiment artifacts
+*.pth
+*.pt
+*.pkl
+*.xlsx
+*.csv
+
+# Generated figures / logs
+outputs/
+results/
+runs/
+
+# Local datasets
+data/*
+!data/README.md
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
