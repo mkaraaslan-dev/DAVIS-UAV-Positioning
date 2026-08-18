@@ -1,4 +1,4 @@
-# DAVIS: Deep Attention-Based Visual–Inertial Positioning System for UAVs
+# DAVIS: A Deep Attention-Based Visual–Inertial Positioning System for UAVs
 
 ![DAVIS Architecture](images/tez-main-model-en.jpg)
 
